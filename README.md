@@ -18,7 +18,7 @@ UI Clone - Dropbox Homepage
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
 
-## Youtube video
+## Youtube video :rocket:
 
-[UI Clone - Dropbox](https://www.youtube.com/watch?v=VqP1ECc_j4M&t=70s)
+[Rocketseat - UI Clone Dropbox](https://www.youtube.com/watch?v=VqP1ECc_j4M&t=70s)
 
